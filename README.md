@@ -25,6 +25,7 @@
 - I was a member of [R-Ladies Tunis](https://www.meetup.com/rladies-tunis/) when I was a student.
 - Currently I'm organizer at [R-Ladies Paris](https://www.meetup.com/rladies-paris/). 
 - I also masters **Python, SQL, SAS** and, not surprisingly, **Latex and Git**.
+- I was awarded the [Posit Conf](https://youtu.be/tD9Vv_wSDdY?feature=shared) scholarship opportunity, the international data science conference, held in Seattle 
 - I presented **R-ladies Paris** at the [useR! 2024 Conference ](https://events.linuxfoundation.org/user/) in Salzburg, **Austria** where I spoke about how to "Leverage R-Ladies Paris Reach for Community Impact" : View the [slides](https://rladiesparis.github.io/rladies_paris_talk_useR2024/rladies_paris_talk_useR2024.html#/title-slide) and the [replay](https://www.youtube.com/watch?v=KqokszC42Uc).
 - I am also a **footballer**, so when I'm not playing with numbers and data, I'm playing with the ball ! That’s why I chose to work on **tactical analysis of team sports** during my Master’s research.
 - With the **Paris Saclay** football team,  my teammates and I qualified for the 2022 france **championship**, finishing first in île de France and 5th in all of France.
