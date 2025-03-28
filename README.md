@@ -12,7 +12,7 @@
 . 
 - Data science was the perfectly suited discipline for me : 
 - I'm an **engineer in statistics and information analysis** from [ESSAI](https://www.essai.rnu.tn/) 
-- I holds a master’s degree in **Data Science** from [Université Paris Saclay](https://www.universite-paris-saclay.fr/) 
+- I held a master’s degree in **Data Science** from [Université Paris Saclay](https://www.universite-paris-saclay.fr/) 
 - and a **research master’s degree** in information processing and complexity of living systems from [ENIT](https://enit.rnu.tn/). 
 - Very comfortable with numbers and statistics, I like to give them meaning and see them have an impact on reality. 
 - I have worked in several fields: **energy, sports, polling, FMCG, automotive, telecom, media and marketing**. 
