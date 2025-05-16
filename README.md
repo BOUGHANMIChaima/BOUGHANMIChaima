@@ -8,7 +8,7 @@
 
 
 
-- I'm a  **Data scientist** at [BVA Xsight](https://www.bva-xsight.com/) in Paris, France ![image](https://github.com/BOUGHANMIChaima/BOUGHANMIChaima/assets/68131205/d3f43111-e7b9-48b2-adeb-b38f2ce73e8b)
+- I'm a  **Data scientist** at [The BVA Family](https://www.thebvafamily.com/) in Paris, France ![image](https://github.com/BOUGHANMIChaima/BOUGHANMIChaima/assets/68131205/d3f43111-e7b9-48b2-adeb-b38f2ce73e8b)
 . 
 - Data science was the perfectly suited discipline for me : 
 - I'm an **engineer in statistics and information analysis** from [ESSAI](https://www.essai.rnu.tn/) 
